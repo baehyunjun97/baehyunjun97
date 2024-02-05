@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+GitHub stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=baehyunjun97)](https://github.com/anuraghazra/github-readme-stats)
 
-[![HyunJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=baehyunjun97)](https://github.com/anuraghazra/github-readme-stats)
+프로젝트 중 사용한 언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baehyunjun97)](https://github.com/anuraghazra/github-readme-stats)

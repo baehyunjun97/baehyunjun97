@@ -1,7 +1,14 @@
-# BaeHyunJun <br>
+# Bae Hyun Jun ⚡ <br>
 안녕하세요! 신입 백엔드 개발자 배현준입니다.
 
 누가 봐도 알기 쉬운 코드를 목표로 개발을 진행하고 있습니다.
+
+## Contact & Channels
+
+---
+
+- **Email** | **ghktkf1212@naver.com**
+- **Github** | ****https://github.com/baehyunjun97/baehyunjun97
 
 <!--
 **baehyunjun97/baehyunjun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 
 ## 🔭Contact & Channels
 - **Email** | **ghktkf1212@naver.com**
-- **Github** | **https://github.com/baehyunjun97/baehyunjun97**
+- **Notion** | [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/readMe-ba1f313aa73743a9bdbcdcf440933f16/)](https://www.notion.so/Bae-Hyun-Jun-9b83aba346b8440db4bc0a0475a4dc9f?pvs=4)
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
 -->
 
